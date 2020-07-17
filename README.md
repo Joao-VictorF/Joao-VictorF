@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm João 🤟🏼👨🏻‍💻
 
-<!--
-**Joao-VictorF/Joao-VictorF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am 18 years old , I study and work with software development since I was 15 years old 👶🏻 and since then I fell in love 🥰 with the technology area and I have been dedicating myself to the maximum to always be the best version of me!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I am currently working with Vue.js, Flutter, React Native, Coordinating projects and with UI Design!! Yeah, I'm pretty flexible!
+
+- 🌱 I am currently learning UX, going deeper into Javascript and Flutter and studying (out of curiosity, so far) Artificial Intelligence, mainly Genetic Algorithms..
+
+- 📫 How to talk to me: just send an email to freitasjoaovictor49@gmail.com and I will respond immediately! (at least I'll try hahah) 😄
+
+- ⚡ Fun fact: I am self-taught and always liked to learn new things.
+I started learning English (I'm Brazilian) playing pokemon as a child (ok, I confess, I used pirated versions in emulators! 😅😅), watching movies and series, and using Duolingo (thanks green bird)!
+
