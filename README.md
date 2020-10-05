@@ -1,6 +1,6 @@
 # Hi there, I'm João (It's like "John") 🤟🏼👨🏻‍💻
 
-#### I am 18 years old , I study and work with software development since I was 15 years old 👶🏻 and since then I fell in love 🥰 with the technology area and I have been dedicating myself to the maximum to always be the best version of me!
+#### I am 19 years old , I study and work with software development since I was 15 years old 👶🏻 and since then I fell in love 🥰 with the technology area and I have been dedicating myself to the maximum to always be the best version of me!
 ---
 
 - 💻 I am currently working with Vue.js, Flutter, React Native, UI Design and Coordinating projects!! Yeah, I'm pretty flexible!
