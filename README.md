@@ -12,20 +12,12 @@ Hi there, I'm João (It's like "John") 🤟🏼
 <h1 style="text-align: center;">
 My stats 👨🏻‍💻
 </h1>
-<p style="display:flex; justify-content:center; align-content:center;">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=JoaoVictorF&layout=compact&theme=dracula" style="margin: 0px 5px" height="300px">
-<img src="https://raw.githubusercontent.com/Joao-VictorF/Joao-VictorF/master/Programming.gif" style="margin: 0px 5px; border-radius: 5px"
- height="296px">
-</p>
+‎             |  ‎ 
+:-------------------------:|:-------------------------:
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=JoaoVictorF&layout=compact&theme=dracula" style="margin: 0px 5px" height="300px"> |  <img src="https://raw.githubusercontent.com/Joao-VictorF/Joao-VictorF/master/Programming.gif" style="margin: 0px 5px; border-radius: 5px" height="296px">
+<img width="100%"  src="https://github-readme-stats.vercel.app/api?username=Joao-VictorF&show_icons=true&theme=dracula&count_private=true&hide=issues" style="margin: 0px 5px"> |  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-VictorF&layout=compact&theme=dracula" style="margin: 0px 5px" height="175px">
 
-<p style="display:flex; justify-content:center; align-content:center;">
-<img src="https://github-readme-stats.vercel.app/api?username=Joao-VictorF&show_icons=true&theme=dracula&count_private=true&hide=issues" style="margin: 0px 5px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-VictorF&layout=compact&theme=dracula" style="margin: 0px 5px" height="170px">
-</p>
-
-
-<h1 style="text-align: center;">
 My activities
 </h1>
 
