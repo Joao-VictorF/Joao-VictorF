@@ -15,7 +15,7 @@ My stats 👨🏻‍💻
 
 ‎             |  ‎ 
 :-------------------------:|:-------------------------:
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=JoaoVictorF&layout=compact&theme=dracula" style="margin: 0px 5px" height="300px"> |  <img src="https://raw.githubusercontent.com/Joao-VictorF/Joao-VictorF/master/Programming.gif" style="margin: 0px 5px; border-radius: 5px" height="296px">
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=JoaoVictorF&layout=compact&theme=dracula" style="margin: 0px 5px" height="300px"> |  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-VictorF&theme=radical" style="margin: 0px 5px; border-radius: 5px" height="296px">
 <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=Joao-VictorF&show_icons=true&theme=dracula&count_private=true&hide=issues" style="margin: 0px 5px"> |  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-VictorF&layout=compact&theme=dracula" style="margin: 0px 5px" height="175px">
 
 My activities
@@ -23,7 +23,7 @@ My activities
 
 - 💻 I am currently working with Vue.js, Flutter, Node.js, UI Design and Coordinating some projects!! Yeah, I'm pretty flexible!
 
-- 🌱 I am learning UX, going deeper into Javascript and Flutter and studying Artificial Intelligence and ML, mainly Genetic Algorithms.
+- 🌱 I am learning UX, going deeper into Javascript and Flutter and studying Machine Learning, mainly Genetic Algorithms.
 
 - 📫 How to talk to me: just send an email to freitasjoaovictor49@gmail.com or connect with me in [Linkedin](https://www.linkedin.com/in/joaovictorfreitas/)
 
