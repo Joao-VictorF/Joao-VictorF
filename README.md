@@ -10,7 +10,8 @@ Hi there, I'm João (It's like "John") 🤟🏼
 </h4>
 
 <h1 style="text-align: center;">
-My stats 👨🏻‍💻
+My stats 👨🏻‍💻 - 
+<img src="https://komarev.com/ghpvc/?username=Joao-VictorF" alt="Joao-VictorF" />
 </h1>
 
 ‎             |  ‎ 
