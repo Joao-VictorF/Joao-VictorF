@@ -5,7 +5,7 @@ Hi there, I'm João (It's like "John") 🤟🏼
 <h4 style="text-align: center; font-weight: 400;">
  I am 19 years old , I study and work with software development since I was 15 years old!
 <br><br>
- Since then I fell in love with the technology area and I have been dedicating myself to the maximum to always be the best version of me!
+ Since then I have been dedicating myself to the maximum to always be the best version of me!
 <br><br>
 </h4>
 
@@ -22,13 +22,14 @@ My stats 👨🏻‍💻 -
 My activities
 </h1>
 
-- 💻 I am currently working with Vue.js, Flutter, Node.js, UI Design and Coordinating some projects!! Yeah, I'm pretty flexible!
+- 💻 I'm currently working with Vue.js, Flutter, Node.js, UI Design and Coordinating some projects!! Yeah, I'm pretty flexible!
 
-- 🌱 I am learning UX, going deeper into Javascript and Flutter and studying Machine Learning, mainly Genetic Algorithms.
+- 🌱 I'm going deeper in javascript, especially Node.js and Vue.js and robust architectural solutions based on microservices and AWS technologies as Lambda, Messages queues, DDB and much more!
 
 - 📫 How to talk to me: just send an email to freitasjoaovictor49@gmail.com or connect with me in [Linkedin](https://www.linkedin.com/in/joaovictorfreitas/)
 
-- ⚡ Fun fact: I am self-taught and always liked to learn new things. I started learning English (I'm Brazilian) playing pokemon as a child (ok, I confess, I used pirated versions in emulators! 😅😅), watching movies and series, and using Duolingo!
+- ⚡ I'm self-taught and always liked to learn new things. I started learning English (I'm Brazilian) playing pokemon as a child (ok, I confess, I used pirated versions in emulators! 😅😅), watching movies and series, and using Duolingo!
+I already studied things like UI and UX design, artificial intelligence with python, some Java frameworks like Spring Boot and Flutter that's surprisingly incredible
 
 ---
 
