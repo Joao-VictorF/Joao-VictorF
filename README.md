@@ -24,11 +24,11 @@ My activities
 
 - 💻 I'm currently working with Vue.js, Flutter, Node.js, UI Design and Coordinating some projects!! Yeah, I'm pretty flexible!
 
-- 🌱 I'm going deeper in javascript, especially Node.js and Vue.js and robust architectural solutions based on microservices and AWS technologies as Lambda, Messages queues, DDB and much more!
+- 🌱 I'm going deeper in javascript, especially Node.js and Vue.js and robust architectural solutions based on microservices and AWS technologies as Lambda, Messages queues, DDB and much more! I'm also really in love with Flutter!
 
 - 📫 How to talk to me: just send an email to freitasjoaovictor49@gmail.com or connect with me in [Linkedin](https://www.linkedin.com/in/joaovictorfreitas/)
 
-- ⚡ I'm self-taught and always liked to learn new things. I started learning English (I'm Brazilian) playing pokemon as a child (ok, I confess, I used pirated versions in emulators! 😅😅), watching movies and series, and using Duolingo!
+- ⚡ I'm self-taught and always liked to learn new things. I started learning English (I'm Brazilian) playing pokemon as a child, watching movies and series, and using Duolingo!
 I already studied things like UI and UX design, artificial intelligence with python, some Java frameworks like Spring Boot and Flutter that's surprisingly incredible
 
 ---
