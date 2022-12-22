@@ -3,7 +3,7 @@ Hi there, I'm João (It's like "John") 🤟🏼
 </h1>
 
 <h4 style="text-align: center; font-weight: 400;">
- I am 19 years old , I study and work with software development since I was 15 years old!
+ I am 21 years old , I study and work with software development since I was 15 years old!
 <br><br>
  Since then I have been dedicating myself to the maximum to always be the best version of me!
 <br><br>
