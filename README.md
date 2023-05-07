@@ -16,8 +16,7 @@ My stats 👨🏻‍💻 -
 
 ‎             |  ‎ 
 :-------------------------:|:-------------------------:
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=JoaoVictorF&layout=compact&theme=dracula" style="margin: 0px 5px" height="300px"> |  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-VictorF&theme=radical" style="margin: 0px 5px; border-radius: 5px" height="296px">
-<img width="100%"  src="https://github-readme-stats.vercel.app/api?username=Joao-VictorF&show_icons=true&theme=dracula&count_private=true&hide=issues" style="margin: 0px 5px"> |  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-VictorF&layout=compact&theme=dracula" style="margin: 0px 5px" height="175px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-VictorF&theme=radical" style="margin: 0px 5px; border-radius: 5px" height="296px"> | <img src="https://github-readme-stats.vercel.app/api?username=Joao-VictorF&show_icons=true&theme=dracula&count_private=true&hide=issues" style="margin: 0px 5px"> 
 
 My activities
 </h1>
