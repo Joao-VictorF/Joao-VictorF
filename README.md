@@ -1,34 +1,35 @@
 <h1 style="text-align: center;">
-Hi there, I'm João (It's like "John") 🤟🏼
+Hi there, I'm João (It's like "John")
 </h1>
 
 <h4 style="text-align: center; font-weight: 400;">
- I am 21 years old , I study and work with software development since I was 15 years old!
-<br><br>
- Since then I have been dedicating myself to the maximum to always be the best version of me!
-<br><br>
+ I am 21 years old, I study and work with software development since I was 15.
+<br>
 </h4>
 
-<h1 style="text-align: center;">
-My stats 👨🏻‍💻 - 
-<img src="https://komarev.com/ghpvc/?username=Joao-VictorF" alt="Joao-VictorF" />
-</h1>
-
-‎             |  ‎ 
-:-------------------------:|:-------------------------:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-VictorF&theme=radical" style="margin: 0px 5px; border-radius: 5px" height="296px"> | <img src="https://github-readme-stats.vercel.app/api?username=Joao-VictorF&show_icons=true&theme=dracula&count_private=true&hide=issues" style="margin: 0px 5px"> 
-
-My activities
-</h1>
-
-- 💻 I'm currently working with Vue.js, Flutter, Node.js, UI Design and Coordinating some projects!! Yeah, I'm pretty flexible!
+- 💻 I'm currently working with Vue.js and Flutter. But I also have experience with Node.js and UI Design. Yeah, I'm pretty flexible!
 
 - 🌱 I'm going deeper in javascript, especially Node.js and Vue.js and robust architectural solutions based on microservices and AWS technologies as Lambda, Messages queues, DDB and much more! I'm also really in love with Flutter!
 
-- 📫 How to talk to me: just send an email to freitasjoaovictor49@gmail.com or connect with me in [Linkedin](https://www.linkedin.com/in/joaovictorfreitas/)
+- ⚡ I'm self-taught and always liked to learn new things. I started learning English playing pokemon as a child, watching movies and tv shows.
 
-- ⚡ I'm self-taught and always liked to learn new things. I started learning English (I'm Brazilian) playing pokemon as a child, watching movies and series, and using Duolingo!
-I already studied things like UI and UX design, artificial intelligence with python, some Java frameworks like Spring Boot and Flutter that's surprisingly incredible
+- 📫 Wanna talk to me? Just send an email to freitasjoaovictor49@gmail.com or connect with me in [Linkedin](https://www.linkedin.com/in/joaovictorfreitas/)
+<br>
+
+<h2 style="text-align: center;">
+My stats - 
+<img src="https://komarev.com/ghpvc/?username=Joao-VictorF" alt="Joao-VictorF" />
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joao-VictorF&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Joao-VictorF&locale=en&mode=weekly&theme=vue&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joao-VictorF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
+ 
+ <br><br>
+</div>
+
+<img src="https://raw.githubusercontent.com/Joao-VictorF/Joao-VictorF/output/snake.svg" alt="Snake animation" />
 
 ---
 
