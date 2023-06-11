@@ -1,9 +1,9 @@
 <h1 style="text-align: center;">
-Hi there, I'm João (It's like "John")
+Heyy! I'm João
 </h1>
 
 <h4 style="text-align: center; font-weight: 400;">
- I am 21 years old, I study and work with software development since I was 15.
+ I'm 21 years old, I study and work with software development since I was 15.
 <br>
 </h4>
 
@@ -23,16 +23,11 @@ My stats -
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joao-VictorF&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Joao-VictorF&locale=en&mode=weekly&theme=vue&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joao-VictorF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
- 
+ <img src="https://streak-stats.demolab.com?user=Joao-VictorF&locale=en&mode=weekly&theme=vue&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
  <br><br>
 </div>
 
-<img src="https://raw.githubusercontent.com/Joao-VictorF/Joao-VictorF/output/snake.svg" alt="Snake animation" />
-
----
-
-
-
-<a href="https://storyset.com/web">Illustration by Freepik Storyset</a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Joao-VictorF/Joao-VictorF/output/snake.svg" alt="Snake animation" />
+</div>
